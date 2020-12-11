@@ -5,16 +5,16 @@
 <p align="center">
 ### About
     <div align="center">
-        <div>
+        <ul>
           <li>📍 Live on Bauru-SP, Brazil.</li>
           <li>💻 Currently working at [@LiveOnSolutions](https://liveonbaas.com/)  with Bank As a Service;</li>
           <li>🎓 Computer and internet technician | ETEC;</li>
           <li>📚 Currently studying about JavaScript and Soft Skills</li>
-        </div>
+        </ul>
     </div>
 </p>
 
-<a href="https://github.com/DanielNeris/DanielNeris" title="Go to Source"><img width="100%" height="200" src="https://github-readme-stats.vercel.app/api?username=DanielNeris&show_icons=true&theme=gotham"></a>
+<a href="https://github.com/DanielNeris/DanielNeris" title="Go to Source"><img width="100%" height="200" src="https://github-readme-stats.vercel.app/api?username=DanielNeris&show_icons=true&theme=gotham&count_private=true"></a>
 
 ### 📲 Contact
 
