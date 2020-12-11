@@ -3,14 +3,14 @@
 </p>
 
 <p align="center">
-    ### About
+### About
     <div align="center">
-    <ul>
-      <li>📍 Live on Bauru-SP, Brazil.</li>
-      <li>💻 Currently working at [@LiveOnSolutions](https://liveonbaas.com/)  with Bank As a Service;</li>
-      <li>🎓 Computer and internet technician | ETEC;</li>
-      <li>📚 Currently studying about JavaScript and Soft Skills</li>
-    </ul>
+        <div>
+          <li>📍 Live on Bauru-SP, Brazil.</li>
+          <li>💻 Currently working at [@LiveOnSolutions](https://liveonbaas.com/)  with Bank As a Service;</li>
+          <li>🎓 Computer and internet technician | ETEC;</li>
+          <li>📚 Currently studying about JavaScript and Soft Skills</li>
+        </div>
     </div>
 </p>
 <a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source"><img width="100%" height="200" src="https://github-readme-stats.vercel.app/api?username=DanielNeris&show_icons=true&theme=gotham"></a>
