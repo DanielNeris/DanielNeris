@@ -8,7 +8,7 @@
         <ul>
           <li>📍 Live on Bauru-SP, Brazil.</li>
           <li>💻 Currently working at [@LiveOnSolutions](https://liveonbaas.com/)  with Bank As a Service;</li>
-          <li>🎓 Computer and internet technician | ETEC;</li>
+          <li>🎓 Computer and Internet Computer technician</li>
           <li>📚 Currently studying about JavaScript and Soft Skills</li>
         </ul>
     </div>
