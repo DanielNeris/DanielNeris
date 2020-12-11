@@ -1,5 +1,10 @@
 ### Hi there 👋
 
+### 📲 Contact
+
+  <a href="https://www.linkedin.com/in/danielneris/"><img src="https://img.shields.io/badge/-LinkedIn-0270AD?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/danielneris/" alt="Linkedin"/></a>
+  <a href="mailto:danielneris01@gmail.com"><img src="https://img.shields.io/badge/-Gmail-E94134?style=flat-square&logo=Gmail&logoColor=white&link=mailto:danielneris01@gmail.com" alt="Gmail"/></a>
+
 <!--
 **DanielNeris/DanielNeris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
