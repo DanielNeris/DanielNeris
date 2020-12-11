@@ -3,9 +3,12 @@
 </p>
 
 ### About 
-<h2 align="center">
-    Hi there! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Welcome to my GitHub profile!
-</h2>
+<ul>
+  <li>📍 Live on Bauru-SP, Brazil.</li>
+  <li>💻 Currently working at @liveonsolutins with Bank As a Service;</li>
+  <li>🎓 Computer and internet technician | ETEC;</li>
+  <li>📚 Currently studying about JavaScript and Soft Skills</li>
+</ul>
 
 ### 📲 Contact
 
