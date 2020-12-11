@@ -5,7 +5,7 @@
 ### About 
 <ul>
   <li>📍 Live on Bauru-SP, Brazil.</li>
-  <li>💻 Currently working at @liveonsolutins with Bank As a Service;</li>
+  <li>💻 Currently working at [@LiveOnSolutions](https://github.com/LiveOnSolutions) with Bank As a Service;</li>
   <li>🎓 Computer and internet technician | ETEC;</li>
   <li>📚 Currently studying about JavaScript and Soft Skills</li>
 </ul>
