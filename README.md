@@ -2,13 +2,18 @@
     <b>I'm Daniel</b>
 </p>
 
-### About 
-<ul>
-  <li>📍 Live on Bauru-SP, Brazil.</li>
-  <li>💻 Currently working at [@LiveOnSolutions](https://github.com/LiveOnSolutions) with Bank As a Service;</li>
-  <li>🎓 Computer and internet technician | ETEC;</li>
-  <li>📚 Currently studying about JavaScript and Soft Skills</li>
-</ul>
+<p align="center">
+    ### About
+    <div align="center">
+    <ul>
+      <li>📍 Live on Bauru-SP, Brazil.</li>
+      <li>💻 Currently working at [@LiveOnSolutions](https://liveonbaas.com/)  with Bank As a Service;</li>
+      <li>🎓 Computer and internet technician | ETEC;</li>
+      <li>📚 Currently studying about JavaScript and Soft Skills</li>
+    </ul>
+    </div>
+</p>
+<a href="https://github.com/anuraghazra/github-readme-stats" title="Go to Source"><img width="100%" height="200" src="https://github-readme-stats.vercel.app/api?username=DanielNeris&show_icons=true&theme=gotham"></a>
 
 ### 📲 Contact
 
