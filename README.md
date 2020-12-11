@@ -1,4 +1,11 @@
-### Hi there 👋
+<p align="center">
+    <b>I'm Daniel</b>
+</p>
+
+### About 
+<h2 align="center">
+    Hi there! <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> Welcome to my GitHub profile!
+</h2>
 
 ### 📲 Contact
 
