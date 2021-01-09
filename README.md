@@ -9,10 +9,9 @@ I'm Daniel de Souza Neris.
 I'm a full stack developer.
 
 - :rocket:   I’m currently working at **Live On BaaS**
-- :map:   Bauru-SP, Brazil
+- 📍   Bauru-SP, Brazil
 - :purple_heart:   JavaScriptm, Assemble.
 - :computer:   JavaScript, Typescript, Node.js, ReactJS, React Native
 
 
 <a href="https://github.com/DanielNeris/DanielNeris" title="Go to Source"><img width="100%" height="200" src="https://github-readme-stats.vercel.app/api?username=DanielNeris&show_icons=true&theme=gotham&count_private=true"></a>
-📍
