@@ -10,7 +10,7 @@ I'm a full stack developer.
 
 - :rocket:   I’m currently working at **Live On BaaS**.
 - 📍   Bauru-SP, Brazil.
-- :purple_heart:   JavaScriptm, Assemble.
+- :purple_heart:   JavaScript, Assemble.
 - :computer:   JavaScript, Typescript, Node.js, ReactJS, React Native.
 
 
