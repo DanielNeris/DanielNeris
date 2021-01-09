@@ -1,37 +1,15 @@
-<p align="center">
-    <b>I'm Daniel</b>
-</p>
+[![Linkedin Badge](https://img.shields.io/badge/-DanielNeris-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/danielneris/)](https://www.linkedin.com/in/hugo-duarte-3392bb153/) 
+[![Gmail Badge](https://img.shields.io/badge/-danielneris01@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:danielneris01@gmail.com)](mailto:fhugoduarte@gmail.com)
 
-<p align="center">
-### About
-    <div align="center">
-        <ul>
-          <li>📍 Live on Bauru-SP, Brazil.</li>
-          <li>💻 Currently working at [@LiveOnSolutions](https://liveonbaas.com/)  with Bank As a Service;</li>
-          <li>🎓 Computer and Internet Computer technician</li>
-          <li>📚 Currently studying about JavaScript and Soft Skills</li>
-        </ul>
-    </div>
-</p>
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> What's up my friends
+
+I'm Daniel de Souza Neris.
+I'm a full stack developer :computer:
+📍 Live on Bauru-SP, Brazil
+
+- :rocket:   I’m currently working at **Live On BaaS**
+- :purple_heart:   JavaScriptm, Assemble.
+- :computer:   JavaScript, Typescript, Node.js, ReactJS, React Native
+
 
 <a href="https://github.com/DanielNeris/DanielNeris" title="Go to Source"><img width="100%" height="200" src="https://github-readme-stats.vercel.app/api?username=DanielNeris&show_icons=true&theme=gotham&count_private=true"></a>
-
-### 📲 Contact
-
-  <a href="https://www.linkedin.com/in/danielneris/"><img src="https://img.shields.io/badge/-LinkedIn-0270AD?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/danielneris/" alt="Linkedin"/></a>
-  <a href="mailto:danielneris01@gmail.com"><img src="https://img.shields.io/badge/-Gmail-E94134?style=flat-square&logo=Gmail&logoColor=white&link=mailto:danielneris01@gmail.com" alt="Gmail"/></a>
-
-<!--
-**DanielNeris/DanielNeris** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns:  ...
-- ⚡ Fun fact:  . ..
--->
