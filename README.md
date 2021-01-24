@@ -1,6 +1,6 @@
 ## Daniel de Souza Neris
 
-## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> What's up my friends
+## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> What's up ?
 
 I'm Daniel de Souza Neris.
 I'm a full stack developer.
