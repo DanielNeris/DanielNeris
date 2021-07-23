@@ -3,10 +3,10 @@
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> What's up ?
 
 I'm Daniel de Souza Neris.
-I'm a full stack developer.
+I'm a full stack developer && entrepreneurial.
 
 - :rocket:   I’m currently working at **Live On BaaS**.
-- 📍          Bauru-SP, Brazil.
+- 📍          Jau-SP, Brazil.
 - :purple_heart:   JavaScript, Assemble.
 - :computer:   JavaScript, TypeScript, Node.js, ReactJS, React Native.
 
