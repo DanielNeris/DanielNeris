@@ -5,7 +5,7 @@
 I'm Daniel de Souza Neris.
 I'm a full stack developer && entrepreneurial.
 
-- :rocket:   I’m currently working at **Live On BaaS**.
+<!-- - :rocket:   I’m currently working at **Live On BaaS**. -->
 - 📍          Jau-SP, Brazil.
 - :purple_heart:   JavaScript, Assemble.
 - :computer:   JavaScript, TypeScript, Node.js, ReactJS, React Native.
