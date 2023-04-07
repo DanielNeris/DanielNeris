@@ -3,12 +3,12 @@
 ## <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"> What's up ?
 
 I'm Daniel de Souza Neris.
-I'm a full stack developer && entrepreneurial.
+I'm a entrepreneur.
 
-<!-- - :rocket:   I’m currently working at **Live On BaaS**. -->
+<!-- - :rocket:   I’m currently working at **ZUVIA**. -->
 - 📍          SP, Brazil.
-- :purple_heart:   JavaScript, Assemble.
-- :computer:   JavaScript, TypeScript, Node.js, ReactJS, React Native.
+- :purple_heart:   Entrepreneurship, Assemble.
+- :computer:   JavaScript.
 
 <a href="https://github.com/DanielNeris/DanielNeris" title="Go to Source"><img width="100%" height="200" src="https://github-readme-stats.vercel.app/api?username=DanielNeris&show_icons=true&theme=gotham&count_private=true"></a>
  
