@@ -6,8 +6,8 @@ I'm Daniel de Souza Neris.
 I'm a entrepreneur.
 
 <!-- - :rocket:   I’m currently working at **ZUVIA**. -->
-- 📍          SP, Brazil.
-- :purple_heart:   Entrepreneurship, Assemble.
+- 📍          Brazil.
+- :purple_heart:   Full Stack Developer & Entrepreneurship, Assemble.
 - :computer:   JavaScript.
 
 <a href="https://github.com/DanielNeris/DanielNeris" title="Go to Source"><img width="100%" height="200" src="https://github-readme-stats.vercel.app/api?username=DanielNeris&show_icons=true&theme=gotham&count_private=true"></a>
