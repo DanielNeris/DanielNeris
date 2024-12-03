@@ -21,4 +21,4 @@ results.
 ## Contact 
 
 [![Linkedin Badge](https://img.shields.io/badge/-DanielNeris-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/danielneris/)](https://www.linkedin.com/in/danielneris/)
-[![Gmail Badge](https://img.shields.io/badge/-danielneris01@gmail.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:danielneris01@gmail.com)](mailto:danielneris01@gmail.com)
+[![Gmail Badge](https://img.shields.io/badge/-contact@danielneris.com-c14438?style=flat-square&logo=Gmail&logoColor=white&link=mailto:contact@danielneris.com)](mailto:contact@danielneris.com)
