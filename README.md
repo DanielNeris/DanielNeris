@@ -12,7 +12,7 @@ thrive in fast-paced environments where innovation and collaboration drive impac
 results.
 
 <!-- - :rocket:   I’m currently working at **ZUVIA**. -->
-- 📍          Brazil.
+- 📍          Dubai, UAE.
 - :purple_heart:   Full Stack Developer & Entrepreneurship, Assemble.
 - :computer:   JavaScript.
 
