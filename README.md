@@ -28,7 +28,7 @@ Let’s connect on [LinkedIn](https://www.linkedin.com/in/danielneris) or visit 
 - 💻 Senior Software Engineer at [Nova](https://thenovaweb.com/)
 - 💻 Senior Full Stack Engineer at [SHSquads](https://shsquads.com/)
 - 🧠 Head of Technology at [Zuvia](https://app.zuvia.com.br/)
-- 🌐 Head of Web3 at [SkyDan](https://github.com/Sky-Dan/)
+- 🌐 Head of Blockchain at [SkyDan](https://github.com/Sky-Dan/)
 - 💻 Full Stack Developer at [LiveOn](https://www.linkedin.com/company/modal-as-a-service/)
 
 ---
