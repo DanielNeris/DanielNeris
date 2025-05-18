@@ -4,10 +4,10 @@
 
 👨🏻‍💻 **About Me**
 
-I’m a Full Stack & Blockchain Engineer with 7+ years of experience delivering scalable solutions across tokenization, financial systems, and digital banking — leading projects end-to-end from architecture to deployment.  
+I’m a Full Stack & Blockchain Engineer with 7+ years of experience delivering scalable solutions across tokenization, financial systems, and digital banking leading projects end-to-end from architecture to deployment.  
 I've designed and developed decentralized applications and tokenized asset platforms using Solidity, Ethereum standards, and modern JavaScript frameworks.
 
-Currently exploring the intersection of **on-chain finance**, **asset tokenization**, and **AI-powered Web3 experiences**.
+Currently exploring the intersection of **on-chain finance**, **asset tokenization**, and **AI powered Web3 experiences**.
 
 Let’s connect on [LinkedIn](https://www.linkedin.com/in/danielneris) or visit [danielneris.com](https://danielneris.com) 🔗
 
@@ -15,8 +15,8 @@ Let’s connect on [LinkedIn](https://www.linkedin.com/in/danielneris) or visit 
 
 ## 🧾 Projects & Contributions
 
-- 🏢 **Zuvia** – Architected the smart contract infrastructure behind the real estate tokenization platform [zuvia.com.br](https://www.zuvia.com.br/)
-- 🎲 **Smoolos Club** – Developed the full stack **dApp** and Web3 betting experience  
+- 🏢 **Zuvia** Architected the smart contract infrastructure behind the real estate tokenization platform [zuvia.com.br](https://www.zuvia.com.br/)
+- 🎲 **Smoolos Club** Developed the full stack **dApp** and Web3 betting experience  
   - Smart contracts: [smoolos-bet-club](https://github.com/Sky-Dan/smoolos-bet-club)  
   - Frontend dApp: [smoolos-club-dapp](https://github.com/Sky-Dan/smoolos-club-dapp)
 - ⚙️ Created developer tooling and smart contract architectures using **Solidity**, **Next.js**, and **Node.js**
