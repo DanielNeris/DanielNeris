@@ -1,58 +1,94 @@
-# Hi there 👋, I'm Daniel de Souza Neris
+# Hi 👋, I’m Daniel de Souza Neris
 
 <img alt="Daniel Neris" src="https://github.com/DanielNeris.png" width="200" style="border-radius: 50%" />
 
-👨🏻‍💻 **About Me**
+## 👨🏻‍💻 About Me
 
-I’m a Full Stack & Blockchain Engineer with 7+ years of experience delivering scalable solutions across tokenization, financial systems, and digital banking leading projects end-to-end from architecture to deployment.  
-I've designed and developed decentralized applications and tokenized asset platforms using Solidity, Ethereum standards, and modern JavaScript frameworks.
+I’m a **Senior Software Engineer** with 7+ years of experience designing and building
+**privacy-first, decentralized, and regulated financial systems**.
 
-Currently exploring the intersection of **on-chain finance**, **asset tokenization**, and **AI powered Web3 experiences**.
+My work focuses on **backend architecture, event-driven systems, and Web3 infrastructure**,
+operating at the intersection of **fintech, tokenization, P2P systems, and compliance**.
+I’ve led projects end-to-end from **system design and smart contracts** to **APIs,
+infrastructure, and production operations**.
 
-Let’s connect on [LinkedIn](https://www.linkedin.com/in/danielneris) or visit [danielneris.com](https://danielneris.com) 🔗
+I have hands-on experience building:
+- **Tokenized asset platforms** and on-chain/off-chain financial systems  
+- **KYC and identity verification flows** under regulatory constraints  
+- **P2P and decentralized architectures**, balancing trust, privacy, and performance  
+
+Currently exploring deeper topics around **event-driven architecture (Kafka)**,
+**AWS cloud architecture**, and **privacy-preserving financial infrastructure**.
+
+📍 Based in Dubai — open to global opportunities  
+🔗 [LinkedIn](https://www.linkedin.com/in/danielneris) · [Portfolio](https://danielneris.com)
 
 ---
 
-## 🧾 Projects & Contributions
+## 🧾 Selected Projects & Contributions
 
-- 🏢 **Zuvia** Architected the smart contract infrastructure behind the real estate tokenization platform [zuvia.com.br](https://www.zuvia.com.br/)
-- 🎲 **Smoolos Club** Developed the full stack **dApp** and Web3 betting experience  
-  - Smart contracts: [smoolos-bet-club](https://github.com/Sky-Dan/smoolos-bet-club)  
-  - Frontend dApp: [smoolos-club-dapp](https://github.com/Sky-Dan/smoolos-club-dapp)
-- ⚙️ Created developer tooling and smart contract architectures using **Solidity**, **Next.js**, and **Node.js**
+- 🏢 **Zuvia**  
+  Architected the smart contract and backend infrastructure behind a **real-world asset
+  tokenization platform**, enabling compliant investment flows and handling
+  **R$100M+ in tokenized assets**.  
+  🔗 https://www.zuvia.com.br
+
+- 🎲 **Smoolos Club**  
+  Designed and developed a full-stack **decentralized betting dApp**, including
+  P2P-style settlement flows and smart-contract-driven reward mechanics.  
+  - Smart contracts: https://github.com/Sky-Dan/smoolos-bet-club  
+  - Frontend dApp: https://github.com/Sky-Dan/smoolos-club-dapp  
+
+- ⚙️ **Web3 & Backend Infrastructure**  
+  Built smart contract architectures, backend services, and developer tooling
+  using **Solidity, Node.js, TypeScript, and Next.js**, focusing on security,
+  scalability, and production readiness.
 
 ---
 
 ## 💼 Experience
 
-- 💻 Senior Software Engineer at [Nova](https://thenovaweb.com/)
-- 💻 Senior Full Stack Engineer at [SHSquads](https://shsquads.com/)
-- 🧠 Head of Technology at [Zuvia](https://app.zuvia.com.br/)
-- 🌐 Head of Blockchain at [SkyDan](https://github.com/Sky-Dan/)
-- 💻 Full Stack Developer at [LiveOn](https://www.linkedin.com/company/modal-as-a-service/)
+- 💻 **Senior Software Engineer** - [Nova](https://thenovaweb.com/)  
+  Working on regulated KYC and identity verification systems.
+
+- 💻 **Senior Full Stack Engineer** — [SHSquads](https://shsquads.com/)  
+  Delivered backend platforms for fintech products at scale.
+
+- 🧠 **Head of Technology / Co-founder** — [Zuvia](https://app.zuvia.com.br/)  
+  Led architecture and development of a regulated tokenization platform.
+
+- 🌐 **Head of Blockchain / Co-founder** — [SkyDan](https://github.com/Sky-Dan/)  
+  Designed decentralized and P2P-oriented Web3 systems.
+
+- 💻 **Full Stack Developer** — LiveOn  
+  Built fintech systems including wallets and lending platforms.
 
 ---
 
-## 🛠️ Tech Stack
+## 🛠️ Technical Focus
 
-<p align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/solidity/solidity-original.svg" alt="Solidity" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" alt="Node.js" width="40" height="40"/>
-  <img src="https://icon.icepanel.io/Technology/svg/Hardhat.svg" alt="Hardhat" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" alt="TypeScript" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" alt="JavaScript" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" alt="React" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nextjs/nextjs-original.svg" alt="Next.js" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mongodb/mongodb-original.svg" alt="MongoDB" width="40" height="40"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" alt="Docker" width="40" height="40"/>
-</p>
+**Backend & Architecture**  
+Node.js · TypeScript · REST & GraphQL APIs · Microservices  
+Event-driven systems · Distributed systems fundamentals  
+
+**Decentralization & Web3**  
+Solidity · Smart Contracts · Tokenization  
+On-chain / off-chain architectures · P2P systems  
+
+**Privacy & Regulated Systems**  
+KYC & identity verification · Compliance-driven design  
+Secure handling of sensitive financial data  
+
+**Cloud & Infrastructure**  
+AWS · Docker · CI/CD  
+PostgreSQL · MongoDB · Redis  
 
 ---
 
-## 📈 Stats
+## 📈 GitHub Stats
 
 <p>
-  <img src="https://github-readme-stats.vercel.app/api?username=danielneris&theme=neon&hide_border=true&show_icons=true&locale=en" alt="Daniel Neris Stats" />
+  <img src="https://github-readme-stats.vercel.app/api?username=danielneris&theme=neon&hide_border=true&show_icons=true&locale=en" />
 </p>
 
 ---
@@ -61,9 +97,9 @@ Let’s connect on [LinkedIn](https://www.linkedin.com/in/danielneris) or visit 
 
 <p align="left">
   <a href="https://www.linkedin.com/in/danielneris" target="_blank">
-    <img alt="LinkedIn" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> 
-  </a>  
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> 
+  </a>
   <a href="https://danielneris.com" target="_blank">
-    <img alt="Website" src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white"/> 
-  </a>  
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white"/> 
+  </a>
 </p>
