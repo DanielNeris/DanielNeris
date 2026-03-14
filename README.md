@@ -1,105 +1,320 @@
-# Hi 👋, I’m Daniel de Souza Neris
+# Daniel de Souza Neris
 
-<img alt="Daniel Neris" src="https://github.com/DanielNeris.png" width="200" style="border-radius: 50%" />
+Senior Software Engineer focused on **backend architecture, fintech infrastructure, and distributed systems**.
 
-## 👨🏻‍💻 About Me
+I design and operate **high-reliability backend platforms**, combining **Node.js, event-driven systems, cloud infrastructure, and Web3 technologies** to power financial and decentralized applications.
 
-I’m a **Senior Software Engineer** with 7+ years of experience designing and building
-**privacy-first, decentralized, and regulated financial systems**.
+Key impact from systems I’ve built in production:
 
-My work focuses on **backend architecture, event-driven systems, and Web3 infrastructure**,
-operating at the intersection of **fintech, tokenization, P2P systems, and compliance**.
-I’ve led projects end-to-end from **system design and smart contracts** to **APIs,
-infrastructure, and production operations**.
+- **R$200M+ (~$36M) tokenized assets infrastructure**
+- **20K+ KYC identity verifications processed**
+- **100K+ users supported across fintech platforms**
+- Reduced partner integration time from **2 days → 4 hours**
 
-I have hands-on experience building:
-- **Tokenized asset platforms** and on-chain/off-chain financial systems  
-- **KYC and identity verification flows** under regulatory constraints  
-- **P2P and decentralized architectures**, balancing trust, privacy, and performance  
+📍 Based in Dubai  
 
-Currently exploring deeper topics around **event-driven architecture (Kafka)**,
-**AWS cloud architecture**, and **privacy-preserving financial infrastructure**.
+LinkedIn  
+https://www.linkedin.com/in/danielneris
 
-📍 Based in Dubai — open to global opportunities  
-🔗 [LinkedIn](https://www.linkedin.com/in/danielneris) · [Portfolio](https://danielneris.com)
+Portfolio  
+https://danielneris.com
 
 ---
 
-## 🧾 Selected Projects & Contributions
+# Current Focus
 
-- 🏢 **Zuvia**  
-  Architected the smart contract and backend infrastructure behind a **real-world asset
-  tokenization platform**, enabling compliant investment flows and handling
-  **R$100M+ in tokenized assets**.  
-  🔗 https://www.zuvia.com.br
-
-- 🎲 **Smoolos Club**  
-  Designed and developed a full-stack **decentralized betting dApp**, including
-  P2P-style settlement flows and smart-contract-driven reward mechanics.  
-  - Smart contracts: https://github.com/Sky-Dan/smoolos-bet-club  
-  - Frontend dApp: https://github.com/Sky-Dan/smoolos-club-dapp  
-
-- ⚙️ **Web3 & Backend Infrastructure**  
-  Built smart contract architectures, backend services, and developer tooling
-  using **Solidity, Node.js, TypeScript, and Next.js**, focusing on security,
-  scalability, and production readiness.
+- Backend architecture for fintech platforms
+- Event-driven and distributed systems
+- Tokenization infrastructure
+- AWS cloud architecture
+- Solidity and Web3 integrations
 
 ---
 
-## 💼 Experience
+# Architecture / Systems Built
 
-- 💻 **Senior Software Engineer** - [Nova](https://thenovaweb.com/)  
-  Working on regulated KYC and identity verification systems.
+These are examples of **systems and architectures I designed and implemented**.
 
-- 💻 **Senior Full Stack Engineer** — [SHSquads](https://shsquads.com/)  
-  Delivered backend platforms for fintech products at scale.
+## Tokenized Asset Infrastructure
 
-- 🧠 **Head of Technology / Co-founder** — [Zuvia](https://app.zuvia.com.br/)  
-  Led architecture and development of a regulated tokenization platform.
+A full stack tokenization platform connecting:
 
-- 🌐 **Head of Blockchain / Co-founder** — [SkyDan](https://github.com/Sky-Dan/)  
-  Designed decentralized and P2P-oriented Web3 systems.
+- Solidity smart contracts
+- Node.js backend services
+- investor dashboards
+- financial workflows
 
-- 💻 **Full Stack Developer** — LiveOn  
-  Built fintech systems including wallets and lending platforms.
+Impact
 
----
-
-## 🛠️ Technical Focus
-
-**Backend & Architecture**  
-Node.js · TypeScript · REST & GraphQL APIs · Microservices  
-Event-driven systems · Distributed systems fundamentals  
-
-**Decentralization & Web3**  
-Solidity · Smart Contracts · Tokenization  
-On-chain / off-chain architectures · P2P systems  
-
-**Privacy & Regulated Systems**  
-KYC & identity verification · Compliance-driven design  
-Secure handling of sensitive financial data  
-
-**Cloud & Infrastructure**  
-AWS · Docker · CI/CD  
-PostgreSQL · MongoDB · Redis  
+- **R$200M+ tokenized assets**
+- **5K+ investors onboarded**
+- hybrid **on-chain / off-chain architecture**
 
 ---
 
-## 📈 GitHub Stats
+## KYC & Identity Verification Platform
 
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=danielneris&theme=neon&hide_border=true&show_icons=true&locale=en" />
-</p>
+Designed backend infrastructure for regulated identity verification including:
+
+- OCR document extraction
+- facial matching
+- liveness detection
+- identity verification APIs
+- SDK integrations for partners
+
+Impact
+
+- **20K+ verifications processed**
+- **35% reduction in verification false negatives**
+- partner onboarding reduced from **2 days → 4 hours**
 
 ---
 
-## 🤝 Let’s Connect
+## Event-Driven Financial Systems
 
-<p align="left">
-  <a href="https://www.linkedin.com/in/danielneris" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/> 
-  </a>
-  <a href="https://danielneris.com" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=firefox&logoColor=white"/> 
-  </a>
-</p>
+Designed event-driven architectures to support asynchronous financial workflows.
+
+Technologies used
+
+- Kafka
+- Node.js
+- microservices
+- async processing pipelines
+
+Use cases
+
+- transaction processing
+- financial event ingestion
+- compliance and screening systems
+
+---
+
+## Decentralized Transaction Systems
+
+Built decentralized applications with:
+
+- smart contract settlement
+- P2P transaction flows
+- decentralized reward systems
+- Web3 dApps
+
+Technologies
+
+Solidity  
+Node.js  
+React  
+Ethereum-based architecture
+
+---
+
+# Pinned Repositories
+
+These repositories demonstrate **system design, distributed systems, and Web3 architecture**.
+
+---
+
+## Event-Driven Ecommerce System
+
+Distributed ecommerce architecture demonstrating **event-driven microservices and asynchronous order processing**.
+
+Concepts
+
+- event-driven architecture
+- distributed services
+- async order processing
+- backend system design
+
+Repo  
+https://github.com/DanielNeris/event-driven-ecommerce-system
+
+---
+
+## NestJS Kafka Ingestion
+
+High-throughput ingestion pipeline using **Kafka and NestJS**.
+
+Concepts
+
+- event streaming
+- Kafka consumers
+- ingestion pipelines
+- scalable distributed processing
+
+Repo  
+https://github.com/DanielNeris/nestjs-kafka-ingestion
+
+---
+
+## Pear P2P Auction
+
+Peer-to-peer auction platform built using **Holepunch / Pear runtime**.
+
+Concepts
+
+- decentralized networking
+- P2P architecture
+- distributed synchronization
+
+Repo  
+https://github.com/DanielNeris/pear-p2p-auction
+
+---
+
+## Auction House Solidity
+
+Smart contract auction system implemented in Solidity.
+
+Concepts
+
+- on-chain auction mechanics
+- decentralized settlement
+- Ethereum smart contract architecture
+
+Repo  
+https://github.com/DanielNeris/auction-house-solidity
+
+---
+
+# Experience
+
+## Senior Software Engineer  
+Nova Information Technology - Dubai
+
+Working on backend infrastructure for **regulated fintech platforms**.
+
+Key contributions
+
+- Designed **KYC verification APIs**
+- Integrated OCR, facial verification, and liveness detection
+- Built SDKs and backend services for partners
+
+Impact
+
+- **20K+ identity verifications**
+- **35% reduction in verification errors**
+- partner integration time reduced **2 days → 4 hours**
+
+---
+
+## Principal Engineer & Co-Founder  
+Zuvia
+
+Architected backend infrastructure for a **real-world asset tokenization platform**.
+
+Impact
+
+- **R$200M+ tokenized assets**
+- **5K+ investors onboarded**
+- designed hybrid **on-chain/off-chain architecture**
+
+---
+
+## Senior Software Engineer  
+SHSquads
+
+Delivered backend systems for **5 fintech clients**.
+
+Impact
+
+- systems supporting **100K+ users**
+- APIs powering mobile and web apps
+
+---
+
+## Lead Engineer & Co-Founder  
+SkyDan
+
+Built Web3 platforms including:
+
+- decentralized gaming
+- NFT platforms
+- smart contract reward systems
+
+---
+
+## Software Engineer  
+LiveOn Solutions
+
+Worked on backend systems for fintech including **wallet and lending infrastructure**.
+
+Impact
+
+- reduced API latency by **40%**
+- optimized MongoDB query performance
+
+---
+
+# Tech Stack
+
+### Backend & Platform
+
+Node.js  
+TypeScript  
+NestJS  
+REST APIs  
+Microservices  
+Backend SDKs  
+API Design
+
+### Architecture
+
+Distributed Systems  
+Event-Driven Architecture  
+System Design  
+High-Reliability Systems  
+Async Processing Pipelines
+
+### Messaging & Streaming
+
+Kafka  
+Event Streaming  
+Background Workers  
+Queue Processing
+
+### Databases & Storage
+
+PostgreSQL  
+MongoDB  
+Redis  
+Data Modeling  
+Query Optimization
+
+### Cloud & Infrastructure
+
+AWS  
+Docker  
+CI/CD Pipelines  
+Cloud Architecture
+
+### Blockchain & Web3
+
+Solidity  
+Smart Contracts  
+Tokenization Platforms  
+On-chain / Off-chain Architecture  
+Web3 Infrastructure
+
+### Fintech & Compliance Systems
+
+KYC Infrastructure  
+Identity Verification Systems  
+OCR Integration  
+Facial Matching  
+Liveness Detection  
+Compliance-Driven Platform Design
+
+---
+
+# GitHub Stats
+
+![Daniel GitHub Stats](https://github-readme-stats.vercel.app/api?username=DanielNeris&show_icons=true&theme=radical&hide_border=true)
+
+---
+
+# Contact
+
+LinkedIn  
+https://www.linkedin.com/in/danielneris
+
+Portfolio  
+https://danielneris.com
